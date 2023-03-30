@@ -2,6 +2,7 @@
  
 <p align="center"><img src="https://raw.githubusercontent.com/qxqxia/qxqxia/master/assets/github-contribution-grid-snake.svg" alt="Hello, World! (Or just a snake. (Or just use Markdown :D))" /></p>
 
+<!--
 **qxqxia/qxqxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --
+-->
