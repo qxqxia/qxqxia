@@ -3,7 +3,7 @@ name: My yaml
 on:
   workflow_dispatch:
   schedule:
-    #- cron: "0 0 * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   build:
@@ -25,5 +25,5 @@ jobs:
       - name: add, commit & push
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          branch: master
+          branch: min
           message: 'Generate Contribution Snake' 
