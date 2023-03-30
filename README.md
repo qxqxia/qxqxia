@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-<p align="center"><img src="https://raw.githubusercontent.com/qxqxia/qxqxia/master/assets/github-contribution-grid-snake.svg" alt="Hello, World! (Or just a snake. (Or just use Markdown :D))" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/qxqxia/qxqxia/master/assets/github-snake.svg" alt="Hello, World! (Or just a snake. (Or just use Markdown :D))" /></p>
 
 **qxqxia/qxqxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
