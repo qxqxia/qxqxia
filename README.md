@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Qin</h1>
  
 <p align="center"><img src="https://raw.githubusercontent.com/qxqxia/qxqxia/master/assets/github-contribution-grid-snake.svg" alt="Hello, World! (Or just a snake. (Or just use Markdown :D))" /></p>
 
