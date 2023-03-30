@@ -26,4 +26,4 @@ jobs:
           branch: main
           message: 'Generate Contribution Snake'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
