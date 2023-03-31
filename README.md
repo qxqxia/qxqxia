@@ -1,3 +1,4 @@
+[![daily snake](https://github.com/qxqxia/qxqxia/actions/workflows/main.yml/badge.svg)](https://github.com/qxqxia/qxqxia/actions/workflows/main.yml)
 <h1 align="center">Hi 👋, I'm Qin</h1>
  
 <p align="center"><img src="https://raw.githubusercontent.com/qxqxia/qxqxia/main/assets/snake_green.svg" alt="Hello, World!" /></p>
