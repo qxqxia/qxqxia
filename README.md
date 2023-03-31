@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qin</h1>
  
-<p align="center"><img src="https://raw.githubusercontent.com/qxqxia/qxqxia/main/assets/github-contribution-grid-snake.svg" alt="Hello, World! (Or just a snake. (Or just use Markdown :D))" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/qxqxia/qxqxia/main/assets/snake_green.svg" alt="Hello, World!" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/qxqxia/qxqxia/main/assets/snake_tomato.svg" alt="Hello, World!" /></p>
 
 <!--
 **qxqxia/qxqxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
