@@ -34,7 +34,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./assets/snake_green.svg?&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#c5d3ff
-            ./assets/snake_tomato.svg?color_empty=#99cccc&color_snake=#99cccc&color_dots=#d4353b,#ec4c4b,#f3b6be,#ebd5dc,#eceaed
+            ./assets/snake_tomato.svg?color_empty=#99cccc&color_snake=#99cccc&color_dots=#eceaed,#ebd5dc,#ec4c4b,#d4353b,#f3b6be
       - name: PUSH
         uses: EndBug/add-and-commit@v9
         with:
