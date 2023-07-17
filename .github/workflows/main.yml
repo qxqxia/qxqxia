@@ -29,7 +29,8 @@ jobs:
       # Runs a single command using the runners shell
       - name: SNAKE
         id: snake_svg
-        uses: Platane/snk@v2
+        # uses: Platane/snk@v2
+          uses: aelassas/snk/svg-only@main
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
